@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+    <studentList>
+        <firstName>Harutyun</firstName>
+        <lastName>Nersesyan</lastName>
+        <nickName>Harut_037</nickName>
+    </studentList>
+    <studentList>
+        <firstName>Angin</firstName>
+        <lastName>Abroyan</lastName>
+        <nickName>VinniPooh</nickName>
+    </studentList>
+    <studentList>
+        <firstName>Sergey</firstName>
+        <lastName>Manucharyan</lastName>
+        <nickName>Jazz</nickName>
+    </studentList>
+    <studentList>
+        <firstName>Arman</firstName>
+        <lastName>Varekyan</lastName>
+        <nickName>V</nickName>
+    </studentList>
+    <studentList>
+        <firstName>Mariam</firstName>
+        <lastName>Avetisyan</lastName>
+        <nickName>Mariam</nickName>
+    </studentList>
+</studentList>

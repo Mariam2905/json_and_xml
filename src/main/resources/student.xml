@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<anonymous>
+    <student rollno = "1">
+        <firstName>Harutyun</firstName>
+        <lastName>Nersesyan</lastName>
+        <nickName>Harut_037</nickName>
+        <marks>99</marks>
+    </student>
+
+    <student rollno = "2">
+        <firstName>Angin</firstName>
+        <lastName>Abroyan</lastName>
+        <nickName>VinniPooh</nickName>
+        <marks>100</marks>
+    </student>
+
+    <student rollno = "3">
+        <firstName>Sergey</firstName>
+        <lastName>Manucharyan</lastName>
+        <nickName>Jazz</nickName>
+        <marks>100</marks>
+    </student>
+
+    <student rollno = "4">
+        <firstName>Arman</firstName>
+        <lastName>Varekyan</lastName>
+        <nickName>V</nickName>
+        <marks>100</marks>
+    </student>
+
+    <student rollno = "5">
+        <firstName>Mariam</firstName>
+        <lastName>Avetisyan</lastName>
+        <nickName>Mariam</nickName>
+        <marks>2905</marks>
+    </student>
+</anonymous>
